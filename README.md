@@ -1,3 +1,3 @@
-# CodSoft
+#Alarm
 
-CodSoft internship projects.
+A basic Alarm Clock Application.
